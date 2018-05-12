@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/128
     wikipedia: http://en.wikipedia.org/wiki/Cicero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29247#The-Academic-Questions-Treatise-De-Finibus-and-Tusculan-Disputations-of-M.T.-Cicero-With-a-Sk_
 gutenberg_issued: '2009-06-26'
 gutenberg_type: Text
 identifiers:
