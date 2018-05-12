@@ -1,0 +1,38 @@
+_repo: The-Academic-Questions-Treatise-De-Finibus-and-Tusculan-Disputations-of-M.T.-Cicero-With-a-Sk__29247
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Yonge, Charles Duke
+    alias: Yonge, C. D. (Charles Duke)
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '3581'
+    url: http://www.gutenberg.org/2009/agents/3581
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2009-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Happiness -- Early works to 1800'
+- !lcsh 'Ethics -- Early works to 1800'
+title: The Academic Questions, Treatise De Finibus, and Tusculan Disputations, of
+  M.T. Cicero, With a Sketch of the Greek Philosophers Mentioned by Cicero
+url: http://www.gutenberg.org/ebooks/29247
